@@ -1,0 +1,15 @@
+{
+  "name": "battleship",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js"
+  },
+  "author": "Louis M.",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^2.0.22",
+    "tailwind": "^4.0.0"
+  }
+}
